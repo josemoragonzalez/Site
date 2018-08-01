@@ -1,0 +1,178 @@
+ /* Estilo de los nodos y links*/
+body
+{
+}
+
+.body
+{
+	background: white;
+}
+
+.links line 
+{
+	stroke-opacity: 0.9;
+}
+
+.nodes circle 
+{
+	stroke: #fff;
+	stroke-width: 1px;
+	cursor: pointer;
+	opacity: 0.95;
+}
+
+.select 
+{ 
+	width: 100%;
+	font-family: 'Arial', 'Helvetica', 'sans-serif';
+	font-weight: 100;
+	background: grey 99% 0;
+	color: white;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	border: 0;
+	padding: 10px;
+	font-size: 12px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-webkit-appearance: none;
+	-moz-appearance:none;
+}
+
+.pointer 
+{
+	cursor: pointer;
+}
+
+.tooltip 
+{
+	background: white;
+	color: #333;
+	display: none;
+	padding: 0px;
+	position: absolute;
+	text-align: center;
+	font-family: 'Arial', 'Helvetica', 'sans-serif';
+	font-weight: 100;
+	top: 175px;
+	left: 29px;
+	width: 200px;
+	border-radius: 6px;
+	border: 1px solid #fff;
+	box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
+}
+
+.search
+{
+	width: 100%;
+	height: 30px;
+	padding: 10px;
+}
+
+.search2
+{
+	width: 100%;
+	height: 30px;
+	padding: 10px;
+}
+
+.lienza
+{
+	height: auto;
+}
+
+.texto_nodos
+{
+	font-size: 11px;
+	text-shadow: 0 0 0.2em #fff, 0 0 0.2em #fff, 0 0 0.2em #fff;
+	font-family: 'Arial', 'Helvetica', 'sans-serif';
+	font-weight: 400;
+	fill: #333;
+}
+
+div
+{
+	border: 0px solid #000000;
+}
+.tool_titulo
+{
+	background: #E0E0E0;
+	text-align: left;
+	padding: 6px;
+	font-size: 16px;
+	
+}
+
+.tool_valor
+{
+	background: #FFFFFF;
+	text-align: right;
+	padding: 6px;
+	font-size: 14px;
+	
+}
+
+.tool_titulo2
+{
+	background: rgb(102, 194, 165);
+	text-align: left;
+	padding: 6px;
+	font-size: 16px;
+	color: #ffffff;
+	
+}
+
+.tool_head
+{
+	background: #424242;
+	text-align: center;
+	padding: 6px;
+	font-size: 18px;
+	color: #fff;
+	
+}
+
+.etiquetas
+{
+	font-family: 'Arial', 'Helvetica', 'sans-serif';
+	font-weight: 100;
+}
+
+.div_selectores
+{
+	display: inline-block;
+}
+
+.legend
+{
+	border: 1px;
+	border-color: red;
+	fill: black;
+	background: black;
+}
+
+.inicio
+{
+	font-weight: 200 !important;
+	font-size: 0.8rem;
+  	font-weight: 200;
+  	font-family: 'Arial', 'Helvetica', 'sans-serif';
+	text-decoration: none;
+}
+
+a, a:hover, a:active, a:visited 
+{ 
+	color: #000; 
+}
+
+li 
+{
+    float: right;
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+}
+
+.selector1
+{
+	color: white;
+	font-family: 'Roboto';
+}

@@ -1,0 +1,2919 @@
+﻿{
+	"results":[
+	  {
+	    "id": 86,
+	    "text": "FELIPE CARMONA ARAOS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 85,
+	    "text": "CRISTIAN CARMONAS ARAOS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 87,
+	    "text": "HECTOR CARMONA RIOS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 88,
+	    "text": "HECTOR LUIS CARMONA RIOS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 123,
+	    "text": "JUAN LUIS MONSALVE CUEVAS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 238,
+	    "text": "HUGO SILVA RAVEAU",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 273,
+	    "text": "VIDAL Y ASOCIADOS ESTUDIO DE ARQUITECTURA S L P",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 322,
+	    "text": "MARIA SOLEDAD DIAZ MELLADO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 321,
+	    "text": "JAIME ALFONSO GUTIERREZ CLAVERIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 464,
+	    "text": "CATALINA JAVIERA CHAVAN UMBERLAND",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 465,
+	    "text": "MARIA FERNANDA CHAVAN UMBERLAND",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 550,
+	    "text": "BARBARA CAROLINA OLIVARES BADILLA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 551,
+	    "text": "CRISTIAN ANDRES ROJAS WALLIS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 801,
+	    "text": "FERNANDO EFRAIN GELMAN LANDMAN",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 800,
+	    "text": "OSVALDO ESTEBAN LAFERTTE PIZARRO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 880,
+	    "text": "HERNAN MARCEL MARCHANT HARDESSEN",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1012,
+	    "text": "PABLO JOSE FERNANDEZ DONOSO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1016,
+	    "text": "VICTORIA ESMERALDA VASQUEZ SARABIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1116,
+	    "text": "JOSE HORACIO MESSEN GOMEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1115,
+	    "text": "MARIA LUZ GUAJARDO PINA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1183,
+	    "text": "BERNARDO ENRIQUE ESPINOZA COFRE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1207,
+	    "text": "EDUARDO IVAN BOGDANIC ALALUF",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1214,
+	    "text": "OLIETE S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1313,
+	    "text": "FREDY ISAAC MARTINEZ PASSEK",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 900,
+	    "text": "CARLOS ANDRES CAPURRO ASTABURUAGA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 903,
+	    "text": "RAQUEL MARIA CAPURRO ASTABURUAGA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1450,
+	    "text": "FELIPE MATIAS CAPURRO ASTABURUAGA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 901,
+	    "text": "CARLOS FERNANDO CAPURRO BAHAMONDES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 902,
+	    "text": "MARIA RAQUEL ASTABURUAGA LEON",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1468,
+	    "text": "LORENA DEL CARMEN ANABALON ORTEGA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1469,
+	    "text": "ROBERTO ANTONIO AGUAYO SAGREDO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1500,
+	    "text": "CRISTOBAL ERICK TOPP BRAND",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1501,
+	    "text": "MARIA ELIZABETH BRAND DEISLER",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1502,
+	    "text": "RODOLFO MARTIN TOPP MENDOZA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1555,
+	    "text": "JUAN EDUARDO ESTEBAN SANCHEZ CHACON",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1657,
+	    "text": "SABINA VERONICA BALLADARES PINA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1871,
+	    "text": "HUMBERTO IGNACIO MIGUEL CERDA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1886,
+	    "text": "ANDREA PAZ VALENZUELA HENRIQUEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1889,
+	    "text": "JORGE ANTONIO VALENZUELA GARCIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1941,
+	    "text": "GABRIEL ENRIQUE JARA SEGUEL",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1942,
+	    "text": "TECCIA IVONNE MORALES LEVANCINI",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1945,
+	    "text": "CARLOS LEONEL SOTO SOTO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 1946,
+	    "text": "LEONEL ALEJANDRO SOTO HERNANDEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 2126,
+	    "text": "MARIA TERESA VICENTE SALLES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 2155,
+	    "text": "ANDRES ALFONSO RODRIGUEZ ALVAREZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 2156,
+	    "text": "HECTOR RODRIGUEZ ROA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 2284,
+	    "text": "INVERSIONES EJY DOS LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 2283,
+	    "text": "EMPRESAS JUAN YARUR S A C",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 2418,
+	    "text": "NELSON ROBERTO OSSES LEYTON",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 2417,
+	    "text": "NELLY MIREYA DE LA LUZ MEYER DAZA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 2420,
+	    "text": "JOSE FRANCISCO ARANCIBIA GUTIERREZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 2435,
+	    "text": "CAROLA DEL PILAR MICCONO VILLABLANCA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 2438,
+	    "text": "INVERSIONES LONCOMILLA SPA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 2639,
+	    "text": "ENRIQUE EDUARDO PEREZ GARCIA ROJAS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 2657,
+	    "text": "JULIETA VIORICA FUENTES NUNEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 2658,
+	    "text": "MARIA FRANCISCA PENA FUENTES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 2741,
+	    "text": "ANA MARIA GOMEZ ROCHA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 2778,
+	    "text": "OSCAR ABEL QUINONES RAMIREZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 2863,
+	    "text": "CLAUDIA CAROLINA NARANJO RODRIGUEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 2864,
+	    "text": "VINKO ANTONIO CIKUTOVIC MADARIAGA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 2867,
+	    "text": "CARLOS ROMILIO QUEVEDO CANTILLANA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 3250,
+	    "text": "RAUL FERNANDO HONORATO BASUALTO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 3275,
+	    "text": "MARIO ALEJANDRO YUBINI ARAYA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 3391,
+	    "text": "PAULA DEL PILAR CONTRERAS NEGRON",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 3685,
+	    "text": "DANIEL JIMENEZ SEPULVEDA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 3684,
+	    "text": "CONSULTORA SERVICIOS E INVERSIONES QUANTICA SPA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 4019,
+	    "text": "CLAUDIA JESSICA ELIZONDO CARO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 4020,
+	    "text": "ENRIQUE DARIO PERALTA ROJAS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 4190,
+	    "text": "LEONARDO ISAAC DEBERNARDI PIZARRO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 4226,
+	    "text": "BRAULIO ANDRES MURILLO FIGUEROA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 4257,
+	    "text": "CARLOS IGNACIO HUERTA SERAFINI",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 4259,
+	    "text": "EDGARDO ALONSO ESCALONA AEDO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 4258,
+	    "text": "CAROLINA ELIZABETH DE POMPEYA VILLEGAS SILVA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 4289,
+	    "text": "EDUARDO FEDERICO WENDT MUNITA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 4314,
+	    "text": "FELIPE CRISTIAN RODRIGUEZ LABBE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 4315,
+	    "text": "FELIPE PATRICIO RODRIGUEZ BONILLA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 4317,
+	    "text": "SEBASTIAN PABLO RODRIGUEZ BONILLA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 4316,
+	    "text": "FRANCISCA JOSE RODRIGUEZ BONILLA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 4444,
+	    "text": "LUIS ALEJANDRO CHANDIA CASTILLO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 4930,
+	    "text": "NICOLE ANDREA FUENTES CHAVEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 4931,
+	    "text": "KATHERINE ARACELLI FUENTES CAMPUSANO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 4932,
+	    "text": "ANDRES ALFONSO AMARAL ROSSEL",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 4935,
+	    "text": "JAIME HORACIO AMARAL PINEDA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 5012,
+	    "text": "MAURICIO ADAN ALFARO ALEGRIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 5083,
+	    "text": "MODESTO ENRIQUE VALENZUELA GARCIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 5084,
+	    "text": "RUTH MERY GARCIA DELGADO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 5094,
+	    "text": "INVERSIONES LOS RIOS LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 5093,
+	    "text": "INVERSIONES GRUPO SAESA LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 5194,
+	    "text": "MIGUEL ANGEL ESCOBEDO GUZMAN",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 5262,
+	    "text": "BLANCA DEL CARMEN GOMEZ ULLOA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 5423,
+	    "text": "CARLOS ULISES OROS ROJAS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 5535,
+	    "text": "BRAYAN RICHARD PLAZA VIEIRA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 6081,
+	    "text": "REBECA MERCEDES JIMENEZ LATORRE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 6080,
+	    "text": "CHRISTIAN HECTOR CAMILO GRANDON HINOJOSA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 6431,
+	    "text": "JUANA ELIANA BARRIOS CARRENO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 6432,
+	    "text": "ROBERTO PABLO GONZALEZ ACEVEDO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 6497,
+	    "text": "LUIS ALBERTO SAEZ MUNOZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 6543,
+	    "text": "LUIS HUMBERTO NUNEZ TOBAR",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 6848,
+	    "text": "RODRIGO JORGE RUIZ RODRIGO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 6847,
+	    "text": "PATRICIA CRUZAT CONTARDO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 7220,
+	    "text": "JUAN CARLOS GUTIERREZ BRICENO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 7221,
+	    "text": "MARITZA ESTER PUJADO BARRIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 7485,
+	    "text": "MANUEL ANTONIO BRAVO CORTES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 7585,
+	    "text": "IGNACIO MIGUEL LEON CERDA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 7624,
+	    "text": "FRANCISCO ORESTE VON TROTT BRAVO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 7723,
+	    "text": "RODRIGO ANDRES PEREIRA PEREIRA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 7879,
+	    "text": "ANTONIO HERIBERTO GODOY VELASQUEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 7880,
+	    "text": "MANUEL JESUS GODOY VELASQUEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 7881,
+	    "text": "ORLANDO DEL CARMEN GODOY VELASQUEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 7968,
+	    "text": "JULIO EDUARDO CABRERA ESTRADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 7969,
+	    "text": "KEILA HIPOLITA RIQUELME ALBORNOZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 8026,
+	    "text": "SERGIO HERNAN ROZAS BRAVO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 8294,
+	    "text": "TECNICA DE ARQUITECTURA Y SERVICIOS SPA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 8293,
+	    "text": "TECNICA ARQUITECTURA Y SERVICIOS SPA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 8292,
+	    "text": "RODRIGO HEVIA RIERA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 8463,
+	    "text": "MAURICIO ANDRES MORA PENA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 8520,
+	    "text": "BRUNO ARTURO FULGERI SAGREDO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 8539,
+	    "text": "FELIPE EDUARDO MARQUEZ OYARZUN",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 8571,
+	    "text": "VERENA ALISTER ZELADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 8674,
+	    "text": "SONIA PAMELA SALVADOR ELIAS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 8673,
+	    "text": "ENRIQUE ALEJANDRO KUNCAR SIADE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 9092,
+	    "text": "JOSE MIGUEL VERDUGO COLLARTE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 9278,
+	    "text": "PATRICIO IVAN OYOLA SALINAS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 9277,
+	    "text": "INVESTOR INVERSIONES PATRICIO OYOLA SALINAS EIRL",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 9294,
+	    "text": "PABLO RAUL DE LA FUENTE POZO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 9399,
+	    "text": "ENRIQUE ALBERTO TRUJILLO TAYLOR",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 9545,
+	    "text": "CHRISTIAN MANUEL OLIVARES CHAMORRO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 9546,
+	    "text": "GASTON BERNARDO FLORES BENAVENTE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 9691,
+	    "text": "MARIA PATRICIA VELASQUEZ VILLEGAS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 9692,
+	    "text": "SIGFRIDO HORACIO LUZBEL RASPUTIN CATILAO FUENTES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 9742,
+	    "text": "CARLOS SEGUNDO ORTEGA SANHUEZA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 9743,
+	    "text": "PEDRO ANTONIO GARCIA BARAHONA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 9778,
+	    "text": "PABLO ANDRES NAVARRO FLORES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 9803,
+	    "text": "RUBEN EDGARDO CARRASCO SEGURA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 9812,
+	    "text": "HECTOR RODRIGO DIAZ FLORES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 9921,
+	    "text": "REINALDO GUILLERMO GONZALEZ LOPEZ DE MATURANA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 9920,
+	    "text": "DOYMO ESTEBAN ZAPATA LEYTON",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 9992,
+	    "text": "GERMAN ENRIQUE CONTRERAS CASTILLO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 9997,
+	    "text": "GERARDO ERNESTO WYNANDS MARCHANT",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 9998,
+	    "text": "VERONICA DEL CARMEN NAVARRO POLHWEIN",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 10234,
+	    "text": "LORENA YOHANA SUBIABRE KAPPES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 10235,
+	    "text": "RICARDO ALBERTO OLIVA GARCIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 10381,
+	    "text": "CLAUDIA CATALINA COLL BADINO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 10382,
+	    "text": "CRISTINA CECILIA COLL BADINO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 10383,
+	    "text": "GONZALO ANTONIO COLL BADINO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 10428,
+	    "text": "JAIME EDUARDO ASSAEL FRIED",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 10429,
+	    "text": "VICTORIA FRIED FRIED",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 10553,
+	    "text": "INVERSIONES GRUPO LA CUMBRE LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 11211,
+	    "text": "ANA GLADYS PEREZ AGUILERA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 3336,
+	    "text": "JOSE MIGUEL JARA MOYA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 11325,
+	    "text": "ARTURO EDUARDO LEAL CARRASCO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 11476,
+	    "text": "SOCIEDAD ARIDOS E INVERSIONES SAN VICENTE LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 11477,
+	    "text": "SOCIEDAD ARIDOS Y CONSTRUCTORA SAN VICENTE LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 11504,
+	    "text": "BARRIMAQ ASEO Y LIMPIEZA SPA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 11619,
+	    "text": "DANIEL ALEJANDRO ROZAS VALENCIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 11620,
+	    "text": "RODRIGO GERMAN ROZAS VALENCIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 11720,
+	    "text": "CIRO FABIAN CARDENAS EYZAGUIRRE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 11888,
+	    "text": "PABLO CHRISTIAN MERY FIGUEROA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 11885,
+	    "text": "CARLOS HERNAN MERY FIGUEROA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 11980,
+	    "text": "RUBEN ALBERTO ROSAS ALARCON",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 12095,
+	    "text": "OSCAR PATRICIO VARGAS CARDENAS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 12192,
+	    "text": "VICTOR EDGARDO AILEF CARRASCO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 12449,
+	    "text": "VICTOR RAUL SEPULVEDA HERRERA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 12536,
+	    "text": "RAUL ANTONIO AVILA GUERRERO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 12882,
+	    "text": "ESTEBAN ALEXIS NAVARRO ROZAS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 12959,
+	    "text": "ASESORIAS E INVERSIONES BARLOVENTO LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 12960,
+	    "text": "ASESORIAS E INVERSIONES FYJ LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 12961,
+	    "text": "ASESORIAS E INVERSIONES LUIS GABRIEL VIELVA Y COMPANIA LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 12962,
+	    "text": "ASESORIAS E INVERSIONES MIGUEL VIELVA Y COMPANIA LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 12963,
+	    "text": "INVERSIONES SAN CRISTOBAL LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 13214,
+	    "text": "MAXIMO ADOLFO DIAZ RIVERA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 14002,
+	    "text": "LUIS ALEJANDRO BRULE PUENTES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 14031,
+	    "text": "HECTOR ALEJANDRO PENA RIOS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 14094,
+	    "text": "EUGENIA ROJAS INCERA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 768,
+	    "text": "CORPORACION CHILENO ALEMANA DE BENEFICENCIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 14143,
+	    "text": "JUAN MANUEL FERNANDO VEGA ARTUS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 14304,
+	    "text": "VENTAS Y SERVICIOS GENERALES VENSER LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 14363,
+	    "text": "HECTOR ALFONSO SOLIS QUEVEDO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 14362,
+	    "text": "AMILI PAOLA SOLIS DIBARRART",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 14364,
+	    "text": "KATHERINE MARIA PALOMA SOLIS DIBARRART",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 14992,
+	    "text": "CLAUDIO RICARDO CARRASCO REYES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 15206,
+	    "text": "LIBRA PHARM GMBH",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 15205,
+	    "text": "GRUNENTHAL GMBH",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 15228,
+	    "text": "FUNDACION INSTITUTO DE SEGURIDAD DEL TRABAJO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 15348,
+	    "text": "FELIX DANILO MORENO JORQUERA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 15377,
+	    "text": "ENRIQUE JAVIER VALENZUELA MONSALVE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 15406,
+	    "text": "MAURICIO ALEXIS GALLEGUILLOS TABILO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 15405,
+	    "text": "MARIA MERCEDES FERNANDEZ DUARTE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 15407,
+	    "text": "RODRIGO ROBINSON ALVAREZ MALLA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 15445,
+	    "text": "RC INVERSIONES SPA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 15630,
+	    "text": "EDUARDO SEGUNDO BRAVO SALAZAR",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 15819,
+	    "text": "CECILIA DEL CARMEN GONZALEZ ACUNA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 15820,
+	    "text": "RICARDO IGNACIO PESCE GONZALEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 16127,
+	    "text": "ANA MARIA OYARZUN VARGAS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 16900,
+	    "text": "INVERSIONES FLEXSO LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 16902,
+	    "text": "INVERSIONES URRUTIA Y NEIRA LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 16901,
+	    "text": "INVERSIONES OSORIO Y NARBONA COMPANIA LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 16983,
+	    "text": "ANDRES ANTONIO OTERO URIBE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 17091,
+	    "text": "JOSE ARNER RIOS RODRIGUEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 17311,
+	    "text": "NATALIA ISABEL URRUTIA BRIONES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 17578,
+	    "text": "MARIA SOLEDAD TORAL BUSTAMANTE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 17889,
+	    "text": "CHRISTIAN LORENZO SEPULVEDA ROCHA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 18012,
+	    "text": "INVERSIONES ALTO PLACILLA LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 18010,
+	    "text": "MARINSULAR INVERSIONES S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 18011,
+	    "text": "INMOBILIARIA LO RUIZ S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 18281,
+	    "text": "JOSE MANUEL FLORES SERRANO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 18280,
+	    "text": "HUGO WLADIMIR CANDIA MENDEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 18714,
+	    "text": "ANGELA VIRGINIA FAUNDEZ REYES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 18909,
+	    "text": "CONSTANZA DEL PILAR MORALES VALVERDE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 19240,
+	    "text": "SANDRO CANEVARI CORTES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 19256,
+	    "text": "ALFREDO JOSE LUIS CABRERA CRISTI",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 19638,
+	    "text": "MARIA ANGELICA MARDONES PALMA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 19637,
+	    "text": "ALDO RAFAEL ARANGUIZ ABARCA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 19967,
+	    "text": "FRANCISCO BERNARDO MARDONES NAVARRO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 19968,
+	    "text": "MARIA CRISTINA CIFUENTES TAPIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 20316,
+	    "text": "LUIS ALFONSO FARIAS LEON",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 20703,
+	    "text": "ALEJANDRA ELIZABETH DIAZ VALENZUELA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 21765,
+	    "text": "SOCIEDAD DE INVERSIONES SANTA CALITA LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 21762,
+	    "text": "SOCIEDAD DE INVERSIONES LUNAX LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 21764,
+	    "text": "SOCIEDAD DE INVERSIONES SAN RAMON LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 21763,
+	    "text": "SOCIEDAD DE INVERSIONES NONNA LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 22236,
+	    "text": "MARTA LORETO SEPULVEDA ARANEDA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 22237,
+	    "text": "RICHARD ALEX HERTMANN PRADO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 22246,
+	    "text": "FELIPE ANTONIO LIU QUINTANA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 22676,
+	    "text": "RODRIGO JAVIER PEREZ GALLEGOS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 22737,
+	    "text": "LUIS ALBERTO ENRIQUE BARRIOS GARCIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 22892,
+	    "text": "CLAUDIA ALEJANDRA SALAZAR CARRASCO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 17473,
+	    "text": "JUAN CARLOS MELLA CASTELLANO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 23030,
+	    "text": "LUIS MAURICIO REYES ALVAREZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 23031,
+	    "text": "MAURICIO ANDRES REYES BRITO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 23805,
+	    "text": "GABRIELA ANDREA SALAZAR ASTETE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 24276,
+	    "text": "GONZALO SAN MARTIN SUSCRIBE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 24275,
+	    "text": "EXPRO S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 24490,
+	    "text": "PABLO ERICH TROSTEL ACUNA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 24491,
+	    "text": "MARIANELA IVON CANALES ALARCON",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 24546,
+	    "text": "ILIA BEATRIZ GARCIA DIAZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 24693,
+	    "text": "PATRICIO ENRIQUE OPAZO CONTRERAS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 25026,
+	    "text": "SANTIAGO ALBERTO SCOPESI CONTRERAS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 25025,
+	    "text": "ARIEL ENRIQUE JARA MELLA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 25157,
+	    "text": "ANA MARIA VASQUEZ BUDINICH",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 25204,
+	    "text": "MARCELO ALEJANDRO VILLELA MORENO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 25220,
+	    "text": "SIGDOTEK INVERSIONES S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 25219,
+	    "text": "SIGDO KOPPERS S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 25221,
+	    "text": "S K COMERCIAL S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 25536,
+	    "text": "BERTA POCHTAR DE KUPFER",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 25537,
+	    "text": "JAVIER LEONARDO KUPFER",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 25674,
+	    "text": "LUIS FERNANDO NAVARRETE CONEJEROS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 25738,
+	    "text": "CESAR OSVALDO SANCHEZ TORRES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 25809,
+	    "text": "MATIAS ANTONIO VARGAS KLAUSEN",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 26067,
+	    "text": "VICTOR MANUEL MORALES ACEVEDO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 26242,
+	    "text": "PAULINA ANTONELLA CICARDINI MILLA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 26239,
+	    "text": "MAGALY MALVINA MILLA MONTANO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 26263,
+	    "text": "JOHAN ALEJANDRO GACITUA GARCIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 26186,
+	    "text": "MARCELO BRAVO DE LA FUENTE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 26901,
+	    "text": "MANUEL ALEJANDRO MORALES RIVEROS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 27231,
+	    "text": "PAOLA ANGELICA DI GENOVA ANDRADES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 27232,
+	    "text": "RODRIGO AUGUSTO GALVEZ REBOLLEDO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 27683,
+	    "text": "ARIEL HORACIO OLGUIN MEZA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 28603,
+	    "text": "RODRIGO ANDRES ORELLANA OSORIO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 28640,
+	    "text": "WILSON EDUARDO ARAMAYO FABIAN",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 28653,
+	    "text": "DARIO ALEJANDRO CARRASCO GUTIERREZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 28740,
+	    "text": "CRISTOBAL EMILIO FLEISCHMANN VIVANCO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 28741,
+	    "text": "MAXIMILIANO ROLANDO ZUNIGA PEREZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 28800,
+	    "text": "JUAN CARLOS CAMPOS VASQUEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 28942,
+	    "text": "RENATO FELIPE JIMENEZ RAMIREZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 29118,
+	    "text": "JUAN ENRIQUE CASTRO CASANOVA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 29117,
+	    "text": "JUAN PAULO CASTRO CONCHA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 29539,
+	    "text": "GONZALO ANDRES RAMIREZ ZUNIGA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 29540,
+	    "text": "PEDRO ALEJANDRO RAMIREZ ZUNIGA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 30328,
+	    "text": "SEBASTIAN ANDRES OTERO MUSSO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 31302,
+	    "text": "HUGO ALBERTO CONTRERAS CARMONA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 31314,
+	    "text": "CRISTIAN ROLANDO ADAMACO SOTO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 15428,
+	    "text": "PATRICIO ALEXIS GRANDON NECULMAN",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 32006,
+	    "text": "DANIEL FARHAN HALES HARCHA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 32252,
+	    "text": "RODRIGO ANTONIO SILVA ASTORGA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 32750,
+	    "text": "GIANELLA DINELLI RICCI LOBOS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 33485,
+	    "text": "JEANNETTE ELCIRA CARIQUEO DURAN",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 33486,
+	    "text": "RENE AUGUSTO SANDOVAL ALVARADO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 33846,
+	    "text": "VALERIA EUGENIA TORNEL PASCUAL",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 34503,
+	    "text": "ELIZABETH ANDREA PEREZ MALDONADO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 34610,
+	    "text": "CLAUDIA SOLEDAD TELLO MANRIQUEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 3307,
+	    "text": "ELIDA ISABEL DE LAS MERCEDES MOREIRA MUJICA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 35282,
+	    "text": "VALERIA DANIELA ARRIETA GODOY",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 35911,
+	    "text": "ROSA ESTER BARRIENTOS ROJEL",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 35910,
+	    "text": "MARIA ALEJANDRA BERRIOS ETCHEGARAY",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 35909,
+	    "text": "MARCELA ALEJANDRA RODRIGUEZ NAVIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 36310,
+	    "text": "CESAR BRAIN GOMEZ AGUAYO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 37456,
+	    "text": "ANDREA KIMMY LIU QUINTANA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 37833,
+	    "text": "ROSA ERICA VARGAS PARRA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 38871,
+	    "text": "GERARDO ANDRES NAVARRO BARRIENTOS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 39896,
+	    "text": "NANCY CRISTINA CARVAJAL CANDIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 41260,
+	    "text": "CRISTIAN GUILLERMO NAVARRETE ESCOBAR",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 41550,
+	    "text": "JORGE LEONARDO BAQUEDANO BAQUEDANO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 41865,
+	    "text": "LUIS ALBERTO VICUNA POBLETE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 14757,
+	    "text": "CLAUDIO MEDINA GONZALEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 26703,
+	    "text": "FILOMENA DE LAS MERCEDES ESCOBAR MARTINEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 45107,
+	    "text": "SUPERMERCADOS DON MATIAS S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 45108,
+	    "text": "INMOBILIARIA DURAN MOLGAARD LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 45348,
+	    "text": "MARIA ANGELICA MILLAR AREVALO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 45347,
+	    "text": "GONZALO ANTONIO MILLAR AREVALO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 45556,
+	    "text": "INVERSIONES PUNTA DUNGENESS S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 45555,
+	    "text": "COMERCIAL RED OFFICE MAGALLANES LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 45780,
+	    "text": "MEDICAL POLICENTER S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46167,
+	    "text": "JAVIERA PAZ GAETE PEREZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46168,
+	    "text": "JOSE ENRIQUE GAETE VALENCIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46166,
+	    "text": "CLAUDIA PILAR GAETE PEREZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46169,
+	    "text": "PABLO ANDRES GAETE PEREZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46170,
+	    "text": "TERESA DEL PILAR PEREZ GARCIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46254,
+	    "text": "RAMON ANTONIO RUIZ FERNANDEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 41784,
+	    "text": "ROGER ALBERTO PARRAGUEZ AGUILERA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46460,
+	    "text": "NICOLAS HORACIO GASTON PERRET GARCIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46574,
+	    "text": "PATRICIO OPAZO BERNALES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46828,
+	    "text": "AIDA ESTER FONSECA JARA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46831,
+	    "text": "ENRIQUE EDUARDO NEIRA MONTECINOS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46832,
+	    "text": "ESTEBAN ALONSO NEIRA FONSECA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46830,
+	    "text": "EDUARDO ENRIQUE NEIRA FONSECA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46829,
+	    "text": "CRISTOBAL ANDRES NEIRA FONSECA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46921,
+	    "text": "RICARDO RODRIGUEZ VILLA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46922,
+	    "text": "SUCESION DE DON RICARDO JUAN RODRIGUEZ VILLA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46918,
+	    "text": "ENRIQUE FERNANDO RODRIGUEZ VILLA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46917,
+	    "text": "DESARROLLO EDUCACIONAL PPV LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46920,
+	    "text": "MANUEL RODRIGUEZ VILLA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46919,
+	    "text": "MANUEL ESTANISLAO RODRIGUEZ VILLA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46916,
+	    "text": "CARMEN DEL PILAR RODRIGUEZ VILLA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 10217,
+	    "text": "ANGEL CUSTODIO MAULEN RIOS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 47522,
+	    "text": "SOCIEDAD DE INVERSIONES LAS PERDICES LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 47521,
+	    "text": "SERVICIOS E INVERSIONES INDUSTRIALES LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 47783,
+	    "text": "RICARDO AURELIO PEREIRA MUNOZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 47784,
+	    "text": "VIVIANA INES AZAR URRUTIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 48061,
+	    "text": "VLADIMIR PABLO LONZA JOUSTRA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 48060,
+	    "text": "MILOVAN TONKO LONZA JOUSTRA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 48057,
+	    "text": "FERNANDO ANTONIO LONZA JOUSTRA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 48059,
+	    "text": "JUAN PEDRO LONZA JOUSTRA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 48366,
+	    "text": "ALEX ANTONIO CORTES SANCHEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 48396,
+	    "text": "JESSICA DEL CARMEN ARAVENA MALLEA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 48395,
+	    "text": "BORIS FERNANDO DURAN DARGELEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 48505,
+	    "text": "CRISTOBAL IGNACIO GREZ NIETO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 48506,
+	    "text": "JAVIERA PALOMA GREZ NIETO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 48507,
+	    "text": "MONICA NIETO CEA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 48780,
+	    "text": "MARIA ERNERITA REYES MENA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 48781,
+	    "text": "SARA VALENTINA BARRIOS OGAZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 48779,
+	    "text": "JUAN CARLOS ROJAS REYES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 48795,
+	    "text": "ERIKA DE LOS ANGELES ALLENDE OLEA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 48794,
+	    "text": "EDWIN HERMAN HOLVOET TAPIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 48796,
+	    "text": "ROXANA BERNARDA DE LOURDES ALLENDE OLEA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 48910,
+	    "text": "OCTAVIO ABEL FARIAS MOYA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 49148,
+	    "text": "WALTER JESUS ARAMAYO FABIAN",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 49153,
+	    "text": "RAFAEL ANTONIO HERNANDEZ PENA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 49356,
+	    "text": "JUAN ENRIQUE CORTEZ CORTEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 49530,
+	    "text": "JUAN CARLOS WIDEMANN GUARDA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 49565,
+	    "text": "PATRICIO ARMANDO ZUNIGA SANTELICES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 2456,
+	    "text": "JAIME FERNANDO YANGUAS MARTIN",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 49968,
+	    "text": "CAROLA VARAS JOFRE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 49971,
+	    "text": "MARISOL TAPIA ENCALADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 49970,
+	    "text": "JORGE RICARDO VARAS VASQUEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 49972,
+	    "text": "PAULA CATALINA VARAS JOFRE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 49969,
+	    "text": "CLAUDIA VARAS JOFRE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 50085,
+	    "text": "ALEJANDRO CERDA GALLARDO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 50095,
+	    "text": "DIEGO LUIS BALESTRA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 50099,
+	    "text": "ERNESTO PATRICIO DEL CARMEN GUZMAN VARGAS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 50232,
+	    "text": "PATRICIO FAVIO MUNOZ FERNANDEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 50231,
+	    "text": "ELINA JUANA GALINDO FARIAS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 50294,
+	    "text": "LUIS ARMANDO FELL MENA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 50295,
+	    "text": "MARIA ERICA FELL MENA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 50660,
+	    "text": "ROBERTO CARLOS SANDOVAL RIVERA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 50659,
+	    "text": "MANUEL EDUARDO SANDOVAL RIVERA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 50658,
+	    "text": "MANUEL ARMANDO SANDOVAL GUZMAN",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 51062,
+	    "text": "LUIS EDUARDO ERRAZURIZ RONZIER",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 51061,
+	    "text": "FRANCISCO JOSE ERRAZURIZ RONZIER",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 51223,
+	    "text": "PEDRO ALEJANDRO POKLEPOVIC BRAUN",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 51550,
+	    "text": "GLAXO GROUP LIMITED",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 51650,
+	    "text": "SILVIA XIMENA CESPEDES LAVERGNE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 51683,
+	    "text": "INSTITUTO DE SALUD PREVISIONAL LA CONSTRUCCION",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 51963,
+	    "text": "ANDRES YURYS RODRIGUEZ MUNOZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 51964,
+	    "text": "EMPRESA Y SERVICIOS S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 52133,
+	    "text": "VLADIMIR ENRIQUE KLEY TOBAR",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 52377,
+	    "text": "IMPORTADORA Y EXPORTADORA DE TEXTILES Y NEUMATICOS LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 52378,
+	    "text": "VALERA EUGENIA PASCUAL TORNEL",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 52951,
+	    "text": "NICOLAS ANDRE FERNAND MARIE GHISLAIN MOENS DE HASE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 52952,
+	    "text": "SOCIEDAD DE INVERSIONES ASUSPOWER LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 53223,
+	    "text": "CHRIS ANDREA VORPAHL VILLABLANCA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 53224,
+	    "text": "INGRID MARIA VILLABLANCA ORELLANA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 54455,
+	    "text": "ABRAHAM ENRIQUE PICHARA JADUE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 54456,
+	    "text": "FRANCISCA NAZARIA GUERRERO CATALAN",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 55098,
+	    "text": "JORGE LLANOS LOPEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 55246,
+	    "text": "ALBINA DE LAS NIEVES MUNOZ QUILODRAN",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 55311,
+	    "text": "CRISTIAN DE AMESTI ARMAS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 55324,
+	    "text": "CLAUDIO IRENEO CARDENAS BARRIENTOS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 55325,
+	    "text": "JAIME ERIK PEDEMONTE VELARDE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 55483,
+	    "text": "INVERSIONES GARETTO NUEVA YORK S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 55480,
+	    "text": "FERNANDO BRUNO GARETTO VIVES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 55481,
+	    "text": "HUMBERTO FERNANDO GARETTO VIVES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 55482,
+	    "text": "HUMBERTO VICTORIO GARETTO LUCERO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 56497,
+	    "text": "CRISTIAN WALTER WINKLER OLIVA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 56498,
+	    "text": "HARRY EVALDO WINKLER OLIVA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 56502,
+	    "text": "CLAUDE MARCEL CODJAMBASSIS MAUQUIE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 56516,
+	    "text": "RICARDO MATIAS DIAZ HERBAS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 56514,
+	    "text": "FELIPE JAVIER DIAZ HERBAS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 56515,
+	    "text": "RICARDO ADEL DIAZ SARA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 56513,
+	    "text": "DIEGO ANDRES DIAZ HERBAS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 56543,
+	    "text": "MANUEL CAMILO VIAL RODRIGUEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 56541,
+	    "text": "ADRIANA PRIETO PIZARRO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57101,
+	    "text": "HERNAN RODRIGO CASTRO MONJE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 47289,
+	    "text": "NICOLAS ESGUEP JALAFF",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57129,
+	    "text": "INVERSIONES ESSEN S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57130,
+	    "text": "RODRIGO AQUILES RIVERA GABRIEL",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57186,
+	    "text": "ROBERTO JOSE VIQUE VERDINO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57185,
+	    "text": "MARIA MARCIA ROSA BRAVO SOZA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57531,
+	    "text": "JOSE MANUEL FELIX CATRON APARICIO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57532,
+	    "text": "JUAN CARLOS MARTIN CATRON APARICIO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57533,
+	    "text": "MANUEL ARTURO CATRON ESTEVA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57648,
+	    "text": "XIMENA ALEJANDRA NINO ROA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57647,
+	    "text": "TOMAS CASTRO GALLEGUILLOS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57646,
+	    "text": "TOMAS ANDRES CASTRO GALLEGUILLOS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57644,
+	    "text": "SERGIO RAMIREZ VENZANO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57643,
+	    "text": "SERGIO NICOLAS CASTILLO GLAVIC",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57642,
+	    "text": "ROLF LAGOS FLORES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57645,
+	    "text": "SERVICIOS DELOITTE SPA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57641,
+	    "text": "ROLF AMERICO LAGOS FLORES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57633,
+	    "text": "RENE GONZALEZ LOPEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57634,
+	    "text": "RICARDO BRIGGS LUQUE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57640,
+	    "text": "ROBINSON LIZANA TAPIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57639,
+	    "text": "ROBINSON ANDRES ALARCON GOMEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57638,
+	    "text": "ROBERTO GEJMAN FRANK",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57637,
+	    "text": "ROBERTO ESPINOZA OSORIO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57636,
+	    "text": "ROBERTO ANDRES LEIVA CASAS CORDERO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57635,
+	    "text": "RICARDO CRISTIAN MARTINO BASSANO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57632,
+	    "text": "RENE EDUARDO GONZALEZ LOPEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57631,
+	    "text": "RAUL ANTONIO AGUIRRE GUERRERO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57630,
+	    "text": "RAUL AGUIRRE GUERRERO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57629,
+	    "text": "PEDRO BRAVO GOMEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57628,
+	    "text": "PEDRO ANTONIO BRAVO GOMEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57627,
+	    "text": "PAULA ANDREA OSORIO VIVANCO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57626,
+	    "text": "PATRICIA ZUANIC CAMPOS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57618,
+	    "text": "MILTON CATACOLI",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57625,
+	    "text": "PATRICIA FLORENCIA ZUANIC CAMPOS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57624,
+	    "text": "PABLO SAMUEL VASQUEZ URRUTIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57623,
+	    "text": "PABLO LEONARDO VERA LILLO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57622,
+	    "text": "PABLO ANTONIO TIPIC DERPICH",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57621,
+	    "text": "PABLO ANDRES HERRERA AZOCAR",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57620,
+	    "text": "PABLO ALBERTINI TAGLE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57619,
+	    "text": "OSCAR EDUARDO BIZE VIVANCO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57617,
+	    "text": "MAURICIO FARIAS NAVARRO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57616,
+	    "text": "MARTIN EDGARDO COLOSSI",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57615,
+	    "text": "MARIO MUNOZ VIDAL",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57614,
+	    "text": "LUIS VELASQUEZ MOLINA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57613,
+	    "text": "LUIS HUMBERTO VELASQUEZ MOLINA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57612,
+	    "text": "LUIS ARTURO PLATT AVILA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57611,
+	    "text": "JULIO VALENZUELA CID",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57610,
+	    "text": "JULIO ANTONIO VALENZUELA CID",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57602,
+	    "text": "JORGE ORTIZ MARTINEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57609,
+	    "text": "JUAN ECHEVERRIA GONZALEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57608,
+	    "text": "JUAN CARLOS RODRIGUEZ CABRERA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57607,
+	    "text": "JUAN CARLOS JARA MUNOZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57606,
+	    "text": "JUAN CARLOS CABROL BAGNARA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57605,
+	    "text": "JOSE ANTONIO LAGOS MELO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57604,
+	    "text": "JOSE ANDRES BENGURIA DONOSO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57603,
+	    "text": "JORGE SERRA SEPULVEDA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57601,
+	    "text": "JORGE FANOR ORTIZ VIVANCO MARTINEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57600,
+	    "text": "JORGE FANOR ORTIZ MARTINEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57599,
+	    "text": "JORGE CONTRERAS VEGA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57598,
+	    "text": "JORGE BELLONI MASSONI",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57597,
+	    "text": "JORGE ANTONIO BELLONI MASSONI",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57596,
+	    "text": "JESSICA ANTONIA PEREZ PAVEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57595,
+	    "text": "JAIME VALENZUELA CARVALLO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57594,
+	    "text": "HERNAN GONZALO VERDUGO SCARABELLO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57593,
+	    "text": "FERNANDO MARIO GAZIANO PERALES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57592,
+	    "text": "ESTEBAN RODRIGO CAMPILLAY ESPINOZA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57591,
+	    "text": "ESTEBAN CAMPILLAY ESPINOZA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57590,
+	    "text": "EDGARDO HERNANDEZ GOMEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57589,
+	    "text": "DELOITTE ADVISORY SPA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57588,
+	    "text": "DELOITTE ADVISORY LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57587,
+	    "text": "DANIEL JOIGNANT PACHECO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57586,
+	    "text": "DANIEL FERNANDEZ PEREZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57585,
+	    "text": "CRISTIAN MARCELO ALVAREZ PARRA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57584,
+	    "text": "CRISTIAN ALVAREZ PARRA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57583,
+	    "text": "CLAUDIO MOYA ARANCIBIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57582,
+	    "text": "CHRISTOPHER LYON",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57581,
+	    "text": "CHRISTOPHER JAMES WESTBROOK LYON",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57580,
+	    "text": "CESAR VEGA GONZALEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57579,
+	    "text": "CESAR OSVALDO VEGA GONZALEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57578,
+	    "text": "CECILIA TATIANA MONTANO CAROCA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57576,
+	    "text": "AMELIA HERNANDEZ HERNANDEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57575,
+	    "text": "ALVARO ANDRES MECKLENBURG RIQUELME",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 44733,
+	    "text": "JOSEPH JOHN COURAND RECABAL",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57573,
+	    "text": "ALBERTO KULENKAMPFF",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 55787,
+	    "text": "JORGE RODRIGUEZ RODRIGUEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57574,
+	    "text": "ALBERTO KULENKAMPFF GARCIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57577,
+	    "text": "ASTRID JEANNETTE SAUTEREL GAJARDO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57733,
+	    "text": "LIONEL RICARDO TADEO KOVACS AMENGUAL",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57732,
+	    "text": "LIONEL KOVACS AMENGUAL",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57731,
+	    "text": "INVERSIONES KG LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57730,
+	    "text": "INVERSIONES CKB LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57726,
+	    "text": "EDUARDO ANDRES KOVACS BAUER",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 54505,
+	    "text": "EDUARDO KOVACS AMENGUAL",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57727,
+	    "text": "EDUARDO KOVACS BAUER",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57728,
+	    "text": "EDUARDO KOVACS BAUER SPA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57729,
+	    "text": "EDUARDO KOVACS JONES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57778,
+	    "text": "JAIME PATRICIO YOLITO BALART",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57779,
+	    "text": "TOMAS ALFREDO YOLITO BALART",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57776,
+	    "text": "ANTONIO AMADOR YOLITO BALART",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57792,
+	    "text": "MERCK FINANZ A G LUXEMBURGO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57791,
+	    "text": "MERCK A G",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57958,
+	    "text": "VERONICA SCHMIDT URETA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57952,
+	    "text": "INVERSIONES SANTA AMALIA S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57953,
+	    "text": "JUAN PABLO LARRAIN GARCIA HUIDOBRO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57954,
+	    "text": "PATRICIA SCHMIDT URETA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57951,
+	    "text": "ANA MARIA PEREZ MANDIOLA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57956,
+	    "text": "RICARDO SCHMIDT KUSCH",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57957,
+	    "text": "SOCIEDAD DE RENTAS SANTA AMALIA LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57955,
+	    "text": "REBECA URETA CUADRA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 57984,
+	    "text": "LABORATORIOS ANDROMACO S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 58366,
+	    "text": "SUSANA ALTMANN MUNZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 58365,
+	    "text": "ALVARO CASTILLO ALTMANN",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 58367,
+	    "text": "ASESORIAS E INVERSIONES SAtextNTE S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 58363,
+	    "text": "ASESORIAS E INVERSIONES UNO SA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 58364,
+	    "text": "ASESORIAS E INVERSIONES MARMOLEJO S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 58404,
+	    "text": "MARTEX S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 58402,
+	    "text": "EMPRESAS ARIZTIA SPA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 58403,
+	    "text": "INVERSIONES EMETE S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 59180,
+	    "text": "ANTONIO POSTIGO TORIBIO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 59182,
+	    "text": "MARIA DEL CARMEN COLOSIA MARTINEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 59181,
+	    "text": "CAROLINA POSTIGO COLOSIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 59184,
+	    "text": "RODOLFO ANDRES POSTIGO COLOSIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 59183,
+	    "text": "MARIA SAGUES BERRUEZO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 59186,
+	    "text": "YOLANDA TERESA POSTIGO SAGUES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 59185,
+	    "text": "RODOLFO POSTIGO SAGUES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 59443,
+	    "text": "LIZZIE IVONNE STROBL ROJAS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 59768,
+	    "text": "LIBRERIA ANTARTICA PLAZA LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 47370,
+	    "text": "CARMEN GLORIA JULIA AGUIRRE VARGAS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60145,
+	    "text": "INVERSIONES FAROSA SPA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60146,
+	    "text": "JOSE LUIS ROSALES MUNOZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60147,
+	    "text": "VICTOR ENRIQUE OETTINGER TIETZEN",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60359,
+	    "text": "BAYER AKTIENGESELLSCHAFT",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60360,
+	    "text": "BAYER GESELLSCHAFT FUR BETEILIGUNGEN MBH",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60499,
+	    "text": "INVERSIONES LAGO RANCO LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60527,
+	    "text": "LEXTRADE VENTURES INC",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60526,
+	    "text": "INVERSIONES FARMALAB S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60529,
+	    "text": "TRANSKIM S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60528,
+	    "text": "MONLUX S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60627,
+	    "text": "MAX WIDMER EWERTZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60628,
+	    "text": "VICTOR REICHERT SCHLEYER",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60624,
+	    "text": "COOPERATIVA DE ABASTECIMIENTO DE ENERGIA ELECTRICA DE TEMUCO LTDA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60626,
+	    "text": "GUSTAVO HOTT MARQUARD",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60625,
+	    "text": "FEDERACION CHILENA DE COOPERATIVAS ELECTRICAS LTDA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60751,
+	    "text": "CAROLINA SALINAS CUADROS",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60752,
+	    "text": "JAIME RAMIREZ KATTAN",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60754,
+	    "text": "ALFREDO ESGUEP JURY",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60753,
+	    "text": "JOSE MIGUEL CORREA SOTOMAYOR",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60895,
+	    "text": "INGENIERIA ARIES S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 60894,
+	    "text": "INVERSIONES LATORRE S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 61090,
+	    "text": "JOSE ADOLFO LUTZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 61089,
+	    "text": "TRULY NOLEN INTERNATIONAL S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 61088,
+	    "text": "TERRA MAR S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 44782,
+	    "text": "CENTRO MEDICO LA CALERA S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 46540,
+	    "text": "BANMEDICA S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 61416,
+	    "text": "GUILLERMO STEVENS MOYA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 61417,
+	    "text": "RENATO VIVANCO SEPULVEDA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 61656,
+	    "text": "RAMON ARTURO URRUTIA SILVA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 61655,
+	    "text": "MANUEL FRANCISCO IZQUIERDO FERNANDEZ",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 61733,
+	    "text": "EMBOTELLADORAS CHILENAS UNIDAS S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 61731,
+	    "text": "RAFAEL COVARRUBIAS RISOPATRON",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 61730,
+	    "text": "MARIA SOFIA IRARRAZAVAL DE CASTRO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 61729,
+	    "text": "AGUAS CCU NESTLE CHILE S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 61732,
+	    "text": "CORNELIO SAAVEDRA ECHEVERRIA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 61774,
+	    "text": "TELEX CHILE S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 61958,
+	    "text": "CHILESAT S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 62174,
+	    "text": "HECTOR MANUEL BORQUEZ MIRANDA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 62175,
+	    "text": "SOCIEDAD FERIA DE OSORNO S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 62505,
+	    "text": "DISTRIBUIDORA CUMMINS DIESEL SOCIEDAD ANONIMA COMERCIAL E INDUSTRIAL",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 62506,
+	    "text": "EMPRESAS DICSA S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 62508,
+	    "text": "KOMATSU AMERICA CORP",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 62507,
+	    "text": "KOMATSU CUMMINS CHILE LIMITADA",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 62860,
+	    "text": "ELIZABETH ESMIGNA MELLA QUERO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 62861,
+	    "text": "JUAN ROGELIO ABATTE POBLETE",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 63061,
+	    "text": "EULEN S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 63062,
+	    "text": "JOSE MARIA ESCOBAR TORRES",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 63907,
+	    "text": "ADMINISTRADORA CLINICAS REGIONALES S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 63909,
+	    "text": "FUNDACION CIENTIFICA Y TECNOLOGICA ASOCIACION CHILENA DE SEGURIDAD",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 63908,
+	    "text": "MUTUAL ASESORIAS S A",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 64232,
+	    "text": "TRINIDAD DEL CARMEN MOLINA ACEVEDO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 64231,
+	    "text": "JULIA SILVIA MOLINA ACEVEDO",
+	    "Tipo": "Socio"
+	  },
+	  {
+	    "id": 64230,
+	    "text": "JOSE MIGUEL GUILLEMINOT MOLINA",
+	    "Tipo": "Socio"
+	  }
+	]
+}
